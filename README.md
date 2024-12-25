@@ -18,8 +18,8 @@ Minstrel 是一个多智能体系统，用于生成基于LangGPT格式的结构�
 
 1. 克隆项目仓库：
     ```bash
-    git clone https://github.com/sci-m-wang/LangGPT-generator.git
-    cd LangGPT-generator
+    git clone https://github.com/sci-m-wang/Minstrel.git
+    cd Minstrel
     ```
 
 2. 创建并激活虚拟环境（可选但推荐）：
@@ -88,4 +88,4 @@ Minstrel 是一个多智能体系统，用于生成基于LangGPT格式的结构�
 
 ![Star History Chart](https://api.star-history.com/svg?repos=sci-m-wang/Minstrel&type=Date)
 
-感谢您使用 LangGPT-generator！
+感谢您使用 Minstrel！
