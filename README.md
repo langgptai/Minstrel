@@ -1,10 +1,11 @@
 # Minstrel
 
-Minstrel 是一个多智能体系统，用于生成基于LangGPT格式的结构化提示。该项目旨在通过多个智能代理协作生成高质量的LangGPT提示，以提高生成文本的准确性和多样性。
+Minstrel 是一个多智能体系统，用于生成基于LangGPT框架的结构化人格化提示。该项目旨在通过多个智能代理协作生成高质量的LangGPT提示，以提高生成文本的准确性和多样性。
 
 ## News
-- Minstrel正在参与书生大模型训练营第4期
+- Minstrel入围书生大模型训练营第4期优秀人气项目评选
   ![Minstrel正在参加书生大模型训练营第4期](https://github.com/user-attachments/assets/5a32bd82-e2fd-4bdb-81ea-d5ff9fb648dd)
+  用微信打开[链接](https://mp.weixin.qq.com/s/7_SI3OCeeqIMRevGosRHnQ)，动动您的手指，支持一下5号Minstrel吧，感激不尽！
 
 ## 功能特性
 
